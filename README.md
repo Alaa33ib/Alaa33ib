@@ -139,7 +139,7 @@ I am a Data Scientist and AI Engineer with a strong full-stack foundation, dedic
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaa33ib&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  <img src="https://ghchart.rshah.org/Alaa33ib" alt="Alaa's Github Chart" width="100%" />
 </div>
 
 ---
