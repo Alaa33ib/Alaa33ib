@@ -102,7 +102,7 @@ I am a Data Scientist and AI Engineer with a strong full-stack foundation, dedic
     <tr>
       <td>
         <strong>Intelligent Video Analytics & CCTV Pipeline</strong><br />
-        <a href="https://github.com/Alaa33ib"><code>View Repository</code></a>
+        <a href="https://github.com/Alaa33ib/Restaurant-AI-Powered-Vision"><code>View Repository</code></a>
       </td>
       <td>
         Computer vision tracking system engineered for operational monitoring, activity detection, and automated spatial analytics.<br />
@@ -115,7 +115,7 @@ I am a Data Scientist and AI Engineer with a strong full-stack foundation, dedic
     <tr>
       <td>
         <strong>Exploratory Data Analysis & Analytics Engine</strong><br />
-        <a href="https://github.com/Alaa33ib"><code>View Repository</code></a>
+        <a href="https://github.com/Alaa33ib/EDA"><code>View Repository</code></a>
       </td>
       <td>
         Comprehensive data science pipeline and interactive dashboard for exploratory data analysis, feature engineering, and statistical modeling.<br />
