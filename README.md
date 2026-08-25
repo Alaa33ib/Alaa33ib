@@ -139,8 +139,7 @@ I am a Data Scientist and AI Engineer with a strong full-stack foundation, dedic
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Alaa33ib&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alaa33ib&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://ghchart.rshah.org/Alaa33ib" alt="Alaa's Github Chart" width="100%" />
 </div>
 
 ---
