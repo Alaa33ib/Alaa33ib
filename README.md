@@ -139,11 +139,9 @@ I am a Data Scientist and AI Engineer with a strong full-stack foundation, dedic
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alaa33ib&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaa33ib&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  <img src="https://img.shields.io/badge/Status-Active%20Building-00D26A?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Computer%20Vision-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-0A66C2?style=for-the-badge&logo=git&logoColor=white" alt="Contributions" />
 </div>
 
 ---
