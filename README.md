@@ -128,7 +128,7 @@ I am a Data Scientist and AI Engineer with a strong full-stack foundation, dedic
 
 ---
 
-### What I'm Currently Building & Exploring
+### 💫 What I'm Currently Building & Exploring
 
 - **Agentic AI Workflows:** Prototyping multi-step autonomous workflows using local LLMs via Ollama.
 - **Edge AI Optimization:** Refining real-time vision pipelines for ultra-low latency execution on resource-constrained devices.
