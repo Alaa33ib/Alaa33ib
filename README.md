@@ -50,6 +50,7 @@ I am a Data Scientist and AI Engineer with a strong full-stack foundation, dedic
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
       <img src="https://img.shields.io/badge/Deep%20Learning-CNNs%20%7C%20LSTMs-8A2BE2?style=flat-square" alt="Deep Learning" />
     </td>
   </tr>
