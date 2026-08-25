@@ -139,9 +139,8 @@ I am a Data Scientist and AI Engineer with a strong full-stack foundation, dedic
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Building-00D26A?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Computer%20Vision-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Contributions-Welcome-0A66C2?style=for-the-badge&logo=git&logoColor=white" alt="Contributions" />
+  <img src="https://stats.justin035.workers.dev/api?username=Alaa33ib&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" height="165" />
+  <img src="https://stats.justin035.workers.dev/api/top-langs/?username=Alaa33ib&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 ---
