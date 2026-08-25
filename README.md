@@ -88,7 +88,7 @@ I am a Data Scientist and AI Engineer with a strong full-stack foundation, dedic
   <tbody>
     <tr>
       <td>
-        <strong>Muafa — AI Physical Therapy Platform</strong><br />
+        <strong>Muafa - AI Physical Therapy Platform</strong><br />
         <a href="https://github.com/Alaa33ib"><code>View Repository</code></a>
       </td>
       <td>
