@@ -139,8 +139,7 @@ I am a Data Scientist and AI Engineer with a strong full-stack foundation, dedic
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://stats.justin035.workers.dev/api?username=Alaa33ib&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" height="165" />
-  <img src="https://stats.justin035.workers.dev/api/top-langs/?username=Alaa33ib&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaa33ib&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 </div>
 
 ---
