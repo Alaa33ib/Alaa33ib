@@ -137,14 +137,6 @@ I am a Data Scientist and AI Engineer with a strong full-stack foundation, dedic
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/Alaa33ib" alt="Alaa's Github Chart" width="100%" />
-</div>
-
----
-
 <div align="center">
   <p><em>Open to collaborations on AI/ML applications, Computer Vision projects, and engineering challenges.</em></p>
   <sub>Designed with precision &bull; <a href="https://github.com/Alaa33ib">@Alaa33ib</a></sub>
